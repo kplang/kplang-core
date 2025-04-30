@@ -1,0 +1,3 @@
+# CLI entry point for KP-Lang
+from kp_core import kp_interpreter
+...
